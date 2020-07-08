@@ -1,0 +1,1047 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9A2A75632493D63800EA286E /* ewood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A754D2493D63600EA286E /* ewood.jpg */; };
+		9A2A75642493D63800EA286E /* hills.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A754E2493D63600EA286E /* hills.jpg */; };
+		9A2A75652493D63800EA286E /* kcom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A754F2493D63600EA286E /* kcom.jpg */; };
+		9A2A75662493D63800EA286E /* dw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75502493D63600EA286E /* dw.jpg */; };
+		9A2A75672493D63800EA286E /* brentford.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75512493D63700EA286E /* brentford.jpg */; };
+		9A2A75682493D63800EA286E /* ashton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75522493D63700EA286E /* ashton.jpg */; };
+		9A2A756A2493D63800EA286E /* hudds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75542493D63700EA286E /* hudds.jpg */; };
+		9A2A756B2493D63800EA286E /* den.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75552493D63700EA286E /* den.jpg */; };
+		9A2A756C2493D63800EA286E /* mad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75562493D63700EA286E /* mad.jpg */; };
+		9A2A756D2493D63800EA286E /* oakwell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75572493D63700EA286E /* oakwell.jpg */; };
+		9A2A756E2493D63800EA286E /* riverside.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75582493D63700EA286E /* riverside.jpg */; };
+		9A2A756F2493D63800EA286E /* stoke.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75592493D63700EA286E /* stoke.jpg */; };
+		9A2A75702493D63800EA286E /* wba.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A755A2493D63700EA286E /* wba.jpg */; };
+		9A2A75712493D63800EA286E /* nottsF.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A755B2493D63700EA286E /* nottsF.jpg */; };
+		9A2A75722493D63800EA286E /* luton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A755C2493D63700EA286E /* luton.jpg */; };
+		9A2A75732493D63800EA286E /* cardiff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A755D2493D63700EA286E /* cardiff.jpg */; };
+		9A2A75742493D63800EA286E /* qpr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A755E2493D63700EA286E /* qpr.jpg */; };
+		9A2A75752493D63800EA286E /* swan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A755F2493D63800EA286E /* swan.jpg */; };
+		9A2A75762493D63800EA286E /* valley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75602493D63800EA286E /* valley.jpg */; };
+		9A2A75772493D63800EA286E /* craven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75612493D63800EA286E /* craven.jpg */; };
+		9A2A75782493D63800EA286E /* deepdale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75622493D63800EA286E /* deepdale.jpg */; };
+		9A2A757A2493D6B800EA286E /* leeds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75792493D6B800EA286E /* leeds.jpg */; };
+		9A2A758E2497B47F00EA286E /* turf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A757B2497B47D00EA286E /* turf.jpg */; };
+		9A2A758F2497B47F00EA286E /* carrow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A757C2497B47D00EA286E /* carrow.jpg */; };
+		9A2A75902497B47F00EA286E /* dean.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A757D2497B47D00EA286E /* dean.jpg */; };
+		9A2A75912497B47F00EA286E /* villa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A757E2497B47D00EA286E /* villa.jpg */; };
+		9A2A75922497B47F00EA286E /* whu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A757F2497B47D00EA286E /* whu.jpg */; };
+		9A2A75932497B47F00EA286E /* WOL.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75802497B47E00EA286E /* WOL.jpg */; };
+		9A2A75942497B47F00EA286E /* amex.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75812497B47E00EA286E /* amex.jpg */; };
+		9A2A75962497B47F00EA286E /* OT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75832497B47E00EA286E /* OT.jpg */; };
+		9A2A75972497B47F00EA286E /* stamford.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75842497B47E00EA286E /* stamford.jpg */; };
+		9A2A75982497B47F00EA286E /* goodison.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75852497B47E00EA286E /* goodison.jpg */; };
+		9A2A759B2497B47F00EA286E /* etihad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75882497B47E00EA286E /* etihad.jpg */; };
+		9A2A759C2497B47F00EA286E /* kp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75892497B47E00EA286E /* kp.jpg */; };
+		9A2A759D2497B47F00EA286E /* selhurst.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A758A2497B47E00EA286E /* selhurst.jpg */; };
+		9A2A759E2497B47F00EA286E /* anfield.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A758B2497B47E00EA286E /* anfield.jpg */; };
+		9A2A759F2497B47F00EA286E /* SJP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A758C2497B47E00EA286E /* SJP.jpg */; };
+		9A2A75A02497B47F00EA286E /* bramall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A758D2497B47E00EA286E /* bramall.jpg */; };
+		9A2A75A22497B49E00EA286E /* VRW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75A12497B49E00EA286E /* VRW.jpg */; };
+		9A2A75A42497B53800EA286E /* SMP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75A32497B53800EA286E /* SMP.jpg */; };
+		9A2A75A62497B61100EA286E /* ths.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A2A75A52497B61100EA286E /* ths.jpg */; };
+		9A2A75F0249D1EAC00EA286E /* CountryMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2A75EF249D1EAC00EA286E /* CountryMap.swift */; };
+		9A2A75F224A0FE6000EA286E /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2A75F124A0FE6000EA286E /* Country.swift */; };
+		9A35C4EB2435EB7100580C20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C4EA2435EB7100580C20 /* AppDelegate.swift */; };
+		9A35C4ED2435EB7100580C20 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C4EC2435EB7100580C20 /* SceneDelegate.swift */; };
+		9A35C4EF2435EB7100580C20 /* StadiumDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C4EE2435EB7100580C20 /* StadiumDetail.swift */; };
+		9A35C4F12435EB7200580C20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A35C4F02435EB7200580C20 /* Assets.xcassets */; };
+		9A35C4F42435EB7200580C20 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A35C4F32435EB7200580C20 /* Preview Assets.xcassets */; };
+		9A35C4F72435EB7200580C20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A35C4F52435EB7200580C20 /* LaunchScreen.storyboard */; };
+		9A35C5022435EB7300580C20 /* StadiumsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C5012435EB7300580C20 /* StadiumsTests.swift */; };
+		9A35C50D2435EB7300580C20 /* StadiumsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C50C2435EB7300580C20 /* StadiumsUITests.swift */; };
+		9A35C51B2435EE3000580C20 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C51A2435EE3000580C20 /* CircleImage.swift */; };
+		9A35C51D2435EF4900580C20 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C51C2435EF4900580C20 /* MapView.swift */; };
+		9A35C5202435F39000580C20 /* Stadium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C51F2435F39000580C20 /* Stadium.swift */; };
+		9A35C5222435F49000580C20 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C5212435F49000580C20 /* Data.swift */; };
+		9A35C5392435F58400580C20 /* stadiumData.json in Resources */ = {isa = PBXBuildFile; fileRef = 9A35C52C2435F58400580C20 /* stadiumData.json */; };
+		9A35C5402435F63500580C20 /* StadiumRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C53F2435F63500580C20 /* StadiumRow.swift */; };
+		9A35C5422435F7EE00580C20 /* StadiumList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C5412435F7EE00580C20 /* StadiumList.swift */; };
+		9A35C5442436592E00580C20 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A35C5432436592E00580C20 /* UserData.swift */; };
+		9AA82D0724B341E400F9C6BE /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA82D0624B341E400F9C6BE /* Helper.swift */; };
+		9AA82D0924B38EE000F9C6BE /* SlimStadium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA82D0824B38EE000F9C6BE /* SlimStadium.swift */; };
+		9AB2020D24742703008A81F1 /* chelt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F124742701008A81F1 /* chelt.jpg */; };
+		9AB2020E24742703008A81F1 /* glanford.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F224742701008A81F1 /* glanford.jpg */; };
+		9AB2020F24742703008A81F1 /* abbey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F324742701008A81F1 /* abbey.jpg */; };
+		9AB2021024742703008A81F1 /* blp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F424742701008A81F1 /* blp.jpg */; };
+		9AB2021124742703008A81F1 /* hpp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F524742701008A81F1 /* hpp.jpg */; };
+		9AB2021224742703008A81F1 /* ccs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F624742701008A81F1 /* ccs.jpg */; };
+		9AB2021324742703008A81F1 /* valleyparade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F724742701008A81F1 /* valleyparade.jpg */; };
+		9AB2021424742703008A81F1 /* broadfield.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F824742701008A81F1 /* broadfield.jpg */; };
+		9AB2021524742703008A81F1 /* countyg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201F924742702008A81F1 /* countyg.jpg */; };
+		9AB2021624742703008A81F1 /* wembley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201FA24742702008A81F1 /* wembley.jpg */; };
+		9AB2021724742703008A81F1 /* peninsula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201FB24742702008A81F1 /* peninsula.jpg */; };
+		9AB2021824742703008A81F1 /* brisbane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201FC24742702008A81F1 /* brisbane.jpg */; };
+		9AB2021924742703008A81F1 /* vale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201FD24742702008A81F1 /* vale.jpg */; };
+		9AB2021A24742703008A81F1 /* lamex.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201FE24742702008A81F1 /* lamex.jpg */; };
+		9AB2021B24742703008A81F1 /* emirates.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB201FF24742702008A81F1 /* emirates.jpg */; };
+		9AB2021D24742703008A81F1 /* pts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020124742702008A81F1 /* pts.jpg */; };
+		9AB2021E24742703008A81F1 /* fieldmill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020224742702008A81F1 /* fieldmill.jpg */; };
+		9AB2021F24742703008A81F1 /* alexandra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020324742702008A81F1 /* alexandra.jpg */; };
+		9AB2022024742703008A81F1 /* pridepark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020424742702008A81F1 /* pridepark.jpg */; };
+		9AB2022124742703008A81F1 /* tnl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020524742702008A81F1 /* tnl.jpg */; };
+		9AB2022224742703008A81F1 /* bescot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020624742702008A81F1 /* bescot.jpg */; };
+		9AB2022324742703008A81F1 /* rodney.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020724742702008A81F1 /* rodney.jpg */; };
+		9AB2022424742703008A81F1 /* stjamese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020824742702008A81F1 /* stjamese.jpg */; };
+		9AB2022524742703008A81F1 /* brunton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020924742702008A81F1 /* brunton.jpg */; };
+		9AB2022624742703008A81F1 /* globe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020A24742702008A81F1 /* globe.jpg */; };
+		9AB2022724742703008A81F1 /* boundary.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2020B24742703008A81F1 /* boundary.jpg */; };
+		9AB2022A24742A60008A81F1 /* keepmoat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2022924742A60008A81F1 /* keepmoat.jpg */; };
+		9AB2022C24742B35008A81F1 /* mrg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2022B24742B35008A81F1 /* mrg.jpg */; };
+		9AB2022E2483C5C8008A81F1 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB2022D2483C5C8008A81F1 /* CategoryRow.swift */; };
+		9AB202302483C5D4008A81F1 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB2022F2483C5D4008A81F1 /* Home.swift */; };
+		9AB20249248E8397008A81F1 /* priestfield.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20233248E8396008A81F1 /* priestfield.jpg */; };
+		9AB2024B248E8397008A81F1 /* mk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20235248E8396008A81F1 /* mk.jpg */; };
+		9AB2024C248E8397008A81F1 /* fratton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20236248E8396008A81F1 /* fratton.jpg */; };
+		9AB2024D248E8397008A81F1 /* highbury.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20237248E8396008A81F1 /* highbury.jpg */; };
+		9AB2024E248E8397008A81F1 /* memorial.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20238248E8396008A81F1 /* memorial.jpg */; };
+		9AB2024F248E8397008A81F1 /* portman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20239248E8396008A81F1 /* portman.jpg */; };
+		9AB20250248E8397008A81F1 /* pufc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2023A248E8396008A81F1 /* pufc.jpg */; };
+		9AB20251248E8397008A81F1 /* bloomfield.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2023B248E8396008A81F1 /* bloomfield.jpg */; };
+		9AB20252248E8397008A81F1 /* standrews.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2023C248E8397008A81F1 /* standrews.jpg */; };
+		9AB20253248E8397008A81F1 /* sunderland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2023D248E8397008A81F1 /* sunderland.jpg */; };
+		9AB20254248E8397008A81F1 /* bolton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2023E248E8397008A81F1 /* bolton.jpg */; };
+		9AB20255248E8397008A81F1 /* kingsmeadow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2023F248E8397008A81F1 /* kingsmeadow.jpg */; };
+		9AB20256248E8397008A81F1 /* pirelli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20240248E8397008A81F1 /* pirelli.jpg */; };
+		9AB20257248E8397008A81F1 /* lincoln.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20241248E8397008A81F1 /* lincoln.jpg */; };
+		9AB20258248E8397008A81F1 /* shrew.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20242248E8397008A81F1 /* shrew.jpg */; };
+		9AB20259248E8397008A81F1 /* prenton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20243248E8397008A81F1 /* prenton.jpg */; };
+		9AB2025A248E8397008A81F1 /* rot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20244248E8397008A81F1 /* rot.jpg */; };
+		9AB2025B248E8397008A81F1 /* kassam.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20245248E8397008A81F1 /* kassam.jpg */; };
+		9AB2025C248E8397008A81F1 /* wham.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20246248E8397008A81F1 /* wham.jpg */; };
+		9AB2025D248E8397008A81F1 /* wycombe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20247248E8397008A81F1 /* wycombe.jpg */; };
+		9AB2025E248E8397008A81F1 /* roots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB20248248E8397008A81F1 /* roots.jpg */; };
+		9AB20260248E8419008A81F1 /* dale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AB2025F248E8419008A81F1 /* dale.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9A35C4FE2435EB7300580C20 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A35C4DF2435EB7100580C20 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A35C4E62435EB7100580C20;
+			remoteInfo = Landmarks;
+		};
+		9A35C5092435EB7300580C20 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A35C4DF2435EB7100580C20 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A35C4E62435EB7100580C20;
+			remoteInfo = Landmarks;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9A2A754D2493D63600EA286E /* ewood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ewood.jpg; sourceTree = "<group>"; };
+		9A2A754E2493D63600EA286E /* hills.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hills.jpg; sourceTree = "<group>"; };
+		9A2A754F2493D63600EA286E /* kcom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kcom.jpg; sourceTree = "<group>"; };
+		9A2A75502493D63600EA286E /* dw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dw.jpg; sourceTree = "<group>"; };
+		9A2A75512493D63700EA286E /* brentford.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brentford.jpg; sourceTree = "<group>"; };
+		9A2A75522493D63700EA286E /* ashton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ashton.jpg; sourceTree = "<group>"; };
+		9A2A75542493D63700EA286E /* hudds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hudds.jpg; sourceTree = "<group>"; };
+		9A2A75552493D63700EA286E /* den.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = den.jpg; sourceTree = "<group>"; };
+		9A2A75562493D63700EA286E /* mad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mad.jpg; sourceTree = "<group>"; };
+		9A2A75572493D63700EA286E /* oakwell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oakwell.jpg; sourceTree = "<group>"; };
+		9A2A75582493D63700EA286E /* riverside.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riverside.jpg; sourceTree = "<group>"; };
+		9A2A75592493D63700EA286E /* stoke.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stoke.jpg; sourceTree = "<group>"; };
+		9A2A755A2493D63700EA286E /* wba.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wba.jpg; sourceTree = "<group>"; };
+		9A2A755B2493D63700EA286E /* nottsF.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nottsF.jpg; sourceTree = "<group>"; };
+		9A2A755C2493D63700EA286E /* luton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luton.jpg; sourceTree = "<group>"; };
+		9A2A755D2493D63700EA286E /* cardiff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cardiff.jpg; sourceTree = "<group>"; };
+		9A2A755E2493D63700EA286E /* qpr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qpr.jpg; sourceTree = "<group>"; };
+		9A2A755F2493D63800EA286E /* swan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = swan.jpg; sourceTree = "<group>"; };
+		9A2A75602493D63800EA286E /* valley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = valley.jpg; sourceTree = "<group>"; };
+		9A2A75612493D63800EA286E /* craven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = craven.jpg; sourceTree = "<group>"; };
+		9A2A75622493D63800EA286E /* deepdale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = deepdale.jpg; sourceTree = "<group>"; };
+		9A2A75792493D6B800EA286E /* leeds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = leeds.jpg; sourceTree = "<group>"; };
+		9A2A757B2497B47D00EA286E /* turf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turf.jpg; sourceTree = "<group>"; };
+		9A2A757C2497B47D00EA286E /* carrow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = carrow.jpg; sourceTree = "<group>"; };
+		9A2A757D2497B47D00EA286E /* dean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dean.jpg; sourceTree = "<group>"; };
+		9A2A757E2497B47D00EA286E /* villa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = villa.jpg; sourceTree = "<group>"; };
+		9A2A757F2497B47D00EA286E /* whu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whu.jpg; sourceTree = "<group>"; };
+		9A2A75802497B47E00EA286E /* WOL.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WOL.jpg; sourceTree = "<group>"; };
+		9A2A75812497B47E00EA286E /* amex.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = amex.jpg; sourceTree = "<group>"; };
+		9A2A75832497B47E00EA286E /* OT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OT.jpg; sourceTree = "<group>"; };
+		9A2A75842497B47E00EA286E /* stamford.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stamford.jpg; sourceTree = "<group>"; };
+		9A2A75852497B47E00EA286E /* goodison.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goodison.jpg; sourceTree = "<group>"; };
+		9A2A75882497B47E00EA286E /* etihad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = etihad.jpg; sourceTree = "<group>"; };
+		9A2A75892497B47E00EA286E /* kp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kp.jpg; sourceTree = "<group>"; };
+		9A2A758A2497B47E00EA286E /* selhurst.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = selhurst.jpg; sourceTree = "<group>"; };
+		9A2A758B2497B47E00EA286E /* anfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anfield.jpg; sourceTree = "<group>"; };
+		9A2A758C2497B47E00EA286E /* SJP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SJP.jpg; sourceTree = "<group>"; };
+		9A2A758D2497B47E00EA286E /* bramall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bramall.jpg; sourceTree = "<group>"; };
+		9A2A75A12497B49E00EA286E /* VRW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = VRW.jpg; sourceTree = "<group>"; };
+		9A2A75A32497B53800EA286E /* SMP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SMP.jpg; sourceTree = "<group>"; };
+		9A2A75A52497B61100EA286E /* ths.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ths.jpg; sourceTree = "<group>"; };
+		9A2A75EF249D1EAC00EA286E /* CountryMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryMap.swift; sourceTree = "<group>"; };
+		9A2A75F124A0FE6000EA286E /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		9A35C4E72435EB7100580C20 /* Stadiums.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stadiums.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A35C4EA2435EB7100580C20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9A35C4EC2435EB7100580C20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		9A35C4EE2435EB7100580C20 /* StadiumDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StadiumDetail.swift; sourceTree = "<group>"; };
+		9A35C4F02435EB7200580C20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9A35C4F32435EB7200580C20 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9A35C4F62435EB7200580C20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9A35C4F82435EB7200580C20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A35C4FD2435EB7300580C20 /* StadiumsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StadiumsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A35C5012435EB7300580C20 /* StadiumsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StadiumsTests.swift; sourceTree = "<group>"; };
+		9A35C5032435EB7300580C20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A35C5082435EB7300580C20 /* StadiumsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StadiumsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A35C50C2435EB7300580C20 /* StadiumsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StadiumsUITests.swift; sourceTree = "<group>"; };
+		9A35C50E2435EB7300580C20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A35C51A2435EE3000580C20 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		9A35C51C2435EF4900580C20 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		9A35C51F2435F39000580C20 /* Stadium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stadium.swift; sourceTree = "<group>"; };
+		9A35C5212435F49000580C20 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		9A35C52C2435F58400580C20 /* stadiumData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stadiumData.json; sourceTree = "<group>"; };
+		9A35C53F2435F63500580C20 /* StadiumRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StadiumRow.swift; sourceTree = "<group>"; };
+		9A35C5412435F7EE00580C20 /* StadiumList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StadiumList.swift; sourceTree = "<group>"; };
+		9A35C5432436592E00580C20 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		9AA82D0624B341E400F9C6BE /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		9AA82D0824B38EE000F9C6BE /* SlimStadium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlimStadium.swift; sourceTree = "<group>"; };
+		9AB201F124742701008A81F1 /* chelt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chelt.jpg; sourceTree = "<group>"; };
+		9AB201F224742701008A81F1 /* glanford.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = glanford.jpg; sourceTree = "<group>"; };
+		9AB201F324742701008A81F1 /* abbey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = abbey.jpg; sourceTree = "<group>"; };
+		9AB201F424742701008A81F1 /* blp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blp.jpg; sourceTree = "<group>"; };
+		9AB201F524742701008A81F1 /* hpp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hpp.jpg; sourceTree = "<group>"; };
+		9AB201F624742701008A81F1 /* ccs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ccs.jpg; sourceTree = "<group>"; };
+		9AB201F724742701008A81F1 /* valleyparade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = valleyparade.jpg; sourceTree = "<group>"; };
+		9AB201F824742701008A81F1 /* broadfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = broadfield.jpg; sourceTree = "<group>"; };
+		9AB201F924742702008A81F1 /* countyg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = countyg.jpg; sourceTree = "<group>"; };
+		9AB201FA24742702008A81F1 /* wembley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wembley.jpg; sourceTree = "<group>"; };
+		9AB201FB24742702008A81F1 /* peninsula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = peninsula.jpg; sourceTree = "<group>"; };
+		9AB201FC24742702008A81F1 /* brisbane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brisbane.jpg; sourceTree = "<group>"; };
+		9AB201FD24742702008A81F1 /* vale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vale.jpg; sourceTree = "<group>"; };
+		9AB201FE24742702008A81F1 /* lamex.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lamex.jpg; sourceTree = "<group>"; };
+		9AB201FF24742702008A81F1 /* emirates.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = emirates.jpg; sourceTree = "<group>"; };
+		9AB2020124742702008A81F1 /* pts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pts.jpg; sourceTree = "<group>"; };
+		9AB2020224742702008A81F1 /* fieldmill.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fieldmill.jpg; sourceTree = "<group>"; };
+		9AB2020324742702008A81F1 /* alexandra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = alexandra.jpg; sourceTree = "<group>"; };
+		9AB2020424742702008A81F1 /* pridepark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pridepark.jpg; sourceTree = "<group>"; };
+		9AB2020524742702008A81F1 /* tnl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tnl.jpg; sourceTree = "<group>"; };
+		9AB2020624742702008A81F1 /* bescot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bescot.jpg; sourceTree = "<group>"; };
+		9AB2020724742702008A81F1 /* rodney.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rodney.jpg; sourceTree = "<group>"; };
+		9AB2020824742702008A81F1 /* stjamese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stjamese.jpg; sourceTree = "<group>"; };
+		9AB2020924742702008A81F1 /* brunton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brunton.jpg; sourceTree = "<group>"; };
+		9AB2020A24742702008A81F1 /* globe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = globe.jpg; sourceTree = "<group>"; };
+		9AB2020B24742703008A81F1 /* boundary.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = boundary.jpg; sourceTree = "<group>"; };
+		9AB2022924742A60008A81F1 /* keepmoat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = keepmoat.jpg; sourceTree = "<group>"; };
+		9AB2022B24742B35008A81F1 /* mrg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mrg.jpg; sourceTree = "<group>"; };
+		9AB2022D2483C5C8008A81F1 /* CategoryRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
+		9AB2022F2483C5D4008A81F1 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		9AB20233248E8396008A81F1 /* priestfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = priestfield.jpg; sourceTree = "<group>"; };
+		9AB20235248E8396008A81F1 /* mk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mk.jpg; sourceTree = "<group>"; };
+		9AB20236248E8396008A81F1 /* fratton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fratton.jpg; sourceTree = "<group>"; };
+		9AB20237248E8396008A81F1 /* highbury.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = highbury.jpg; sourceTree = "<group>"; };
+		9AB20238248E8396008A81F1 /* memorial.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = memorial.jpg; sourceTree = "<group>"; };
+		9AB20239248E8396008A81F1 /* portman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portman.jpg; sourceTree = "<group>"; };
+		9AB2023A248E8396008A81F1 /* pufc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pufc.jpg; sourceTree = "<group>"; };
+		9AB2023B248E8396008A81F1 /* bloomfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bloomfield.jpg; sourceTree = "<group>"; };
+		9AB2023C248E8397008A81F1 /* standrews.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = standrews.jpg; sourceTree = "<group>"; };
+		9AB2023D248E8397008A81F1 /* sunderland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sunderland.jpg; sourceTree = "<group>"; };
+		9AB2023E248E8397008A81F1 /* bolton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bolton.jpg; sourceTree = "<group>"; };
+		9AB2023F248E8397008A81F1 /* kingsmeadow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kingsmeadow.jpg; sourceTree = "<group>"; };
+		9AB20240248E8397008A81F1 /* pirelli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pirelli.jpg; sourceTree = "<group>"; };
+		9AB20241248E8397008A81F1 /* lincoln.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lincoln.jpg; sourceTree = "<group>"; };
+		9AB20242248E8397008A81F1 /* shrew.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shrew.jpg; sourceTree = "<group>"; };
+		9AB20243248E8397008A81F1 /* prenton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = prenton.jpg; sourceTree = "<group>"; };
+		9AB20244248E8397008A81F1 /* rot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rot.jpg; sourceTree = "<group>"; };
+		9AB20245248E8397008A81F1 /* kassam.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kassam.jpg; sourceTree = "<group>"; };
+		9AB20246248E8397008A81F1 /* wham.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wham.jpg; sourceTree = "<group>"; };
+		9AB20247248E8397008A81F1 /* wycombe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wycombe.jpg; sourceTree = "<group>"; };
+		9AB20248248E8397008A81F1 /* roots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = roots.jpg; sourceTree = "<group>"; };
+		9AB2025F248E8419008A81F1 /* dale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dale.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9A35C4E42435EB7100580C20 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A35C4FA2435EB7300580C20 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A35C5052435EB7300580C20 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9A0569C0246440F4008DD20D /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				9A35C51A2435EE3000580C20 /* CircleImage.swift */,
+				9A35C51C2435EF4900580C20 /* MapView.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
+		9A35C4DE2435EB7100580C20 = {
+			isa = PBXGroup;
+			children = (
+				9A35C4E92435EB7100580C20 /* Stadiums */,
+				9A35C5002435EB7300580C20 /* StadiumsTests */,
+				9A35C50B2435EB7300580C20 /* StadiumsUITests */,
+				9A35C4E82435EB7100580C20 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9A35C4E82435EB7100580C20 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9A35C4E72435EB7100580C20 /* Stadiums.app */,
+				9A35C4FD2435EB7300580C20 /* StadiumsTests.xctest */,
+				9A35C5082435EB7300580C20 /* StadiumsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9A35C4E92435EB7100580C20 /* Stadiums */ = {
+			isa = PBXGroup;
+			children = (
+				9A0569C0246440F4008DD20D /* Supporting Views */,
+				9A35C5242435F55300580C20 /* Resources */,
+				9A35C51E2435F37A00580C20 /* Models */,
+				9A35C4EA2435EB7100580C20 /* AppDelegate.swift */,
+				9A35C4EC2435EB7100580C20 /* SceneDelegate.swift */,
+				9A35C4EE2435EB7100580C20 /* StadiumDetail.swift */,
+				9AA82D0824B38EE000F9C6BE /* SlimStadium.swift */,
+				9AA82D0624B341E400F9C6BE /* Helper.swift */,
+				9A35C53F2435F63500580C20 /* StadiumRow.swift */,
+				9AB2022F2483C5D4008A81F1 /* Home.swift */,
+				9AB2022D2483C5C8008A81F1 /* CategoryRow.swift */,
+				9A35C5412435F7EE00580C20 /* StadiumList.swift */,
+				9A35C4F02435EB7200580C20 /* Assets.xcassets */,
+				9A35C4F52435EB7200580C20 /* LaunchScreen.storyboard */,
+				9A35C4F82435EB7200580C20 /* Info.plist */,
+				9A35C4F22435EB7200580C20 /* Preview Content */,
+				9A2A75EF249D1EAC00EA286E /* CountryMap.swift */,
+				9A2A75F124A0FE6000EA286E /* Country.swift */,
+			);
+			path = Stadiums;
+			sourceTree = "<group>";
+		};
+		9A35C4F22435EB7200580C20 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9A35C4F32435EB7200580C20 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9A35C5002435EB7300580C20 /* StadiumsTests */ = {
+			isa = PBXGroup;
+			children = (
+				9A35C5012435EB7300580C20 /* StadiumsTests.swift */,
+				9A35C5032435EB7300580C20 /* Info.plist */,
+			);
+			path = StadiumsTests;
+			sourceTree = "<group>";
+		};
+		9A35C50B2435EB7300580C20 /* StadiumsUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9A35C50C2435EB7300580C20 /* StadiumsUITests.swift */,
+				9A35C50E2435EB7300580C20 /* Info.plist */,
+			);
+			path = StadiumsUITests;
+			sourceTree = "<group>";
+		};
+		9A35C51E2435F37A00580C20 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9A35C51F2435F39000580C20 /* Stadium.swift */,
+				9A35C5212435F49000580C20 /* Data.swift */,
+				9A35C5432436592E00580C20 /* UserData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9A35C5242435F55300580C20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9AB2023B248E8396008A81F1 /* bloomfield.jpg */,
+				9AB2023E248E8397008A81F1 /* bolton.jpg */,
+				9AB2025F248E8419008A81F1 /* dale.jpg */,
+				9AB20236248E8396008A81F1 /* fratton.jpg */,
+				9AB20237248E8396008A81F1 /* highbury.jpg */,
+				9AB20245248E8397008A81F1 /* kassam.jpg */,
+				9AB2023F248E8397008A81F1 /* kingsmeadow.jpg */,
+				9AB20241248E8397008A81F1 /* lincoln.jpg */,
+				9AB20238248E8396008A81F1 /* memorial.jpg */,
+				9AB20235248E8396008A81F1 /* mk.jpg */,
+				9AB20240248E8397008A81F1 /* pirelli.jpg */,
+				9AB20239248E8396008A81F1 /* portman.jpg */,
+				9AB20243248E8397008A81F1 /* prenton.jpg */,
+				9AB20233248E8396008A81F1 /* priestfield.jpg */,
+				9AB2023A248E8396008A81F1 /* pufc.jpg */,
+				9AB20248248E8397008A81F1 /* roots.jpg */,
+				9AB20244248E8397008A81F1 /* rot.jpg */,
+				9AB20242248E8397008A81F1 /* shrew.jpg */,
+				9AB2023C248E8397008A81F1 /* standrews.jpg */,
+				9AB2023D248E8397008A81F1 /* sunderland.jpg */,
+				9AB20246248E8397008A81F1 /* wham.jpg */,
+				9AB20247248E8397008A81F1 /* wycombe.jpg */,
+				9AB2022B24742B35008A81F1 /* mrg.jpg */,
+				9AB2022924742A60008A81F1 /* keepmoat.jpg */,
+				9AB201F324742701008A81F1 /* abbey.jpg */,
+				9AB2020324742702008A81F1 /* alexandra.jpg */,
+				9AB2020624742702008A81F1 /* bescot.jpg */,
+				9AB201F424742701008A81F1 /* blp.jpg */,
+				9AB2020B24742703008A81F1 /* boundary.jpg */,
+				9AB201FC24742702008A81F1 /* brisbane.jpg */,
+				9AB201F824742701008A81F1 /* broadfield.jpg */,
+				9AB2020924742702008A81F1 /* brunton.jpg */,
+				9AB201F624742701008A81F1 /* ccs.jpg */,
+				9AB201F124742701008A81F1 /* chelt.jpg */,
+				9AB201F924742702008A81F1 /* countyg.jpg */,
+				9AB201FF24742702008A81F1 /* emirates.jpg */,
+				9AB2020224742702008A81F1 /* fieldmill.jpg */,
+				9AB201F224742701008A81F1 /* glanford.jpg */,
+				9AB2020A24742702008A81F1 /* globe.jpg */,
+				9AB201F524742701008A81F1 /* hpp.jpg */,
+				9AB201FE24742702008A81F1 /* lamex.jpg */,
+				9AB201FB24742702008A81F1 /* peninsula.jpg */,
+				9AB2020424742702008A81F1 /* pridepark.jpg */,
+				9AB2020124742702008A81F1 /* pts.jpg */,
+				9AB2020724742702008A81F1 /* rodney.jpg */,
+				9AB2020824742702008A81F1 /* stjamese.jpg */,
+				9AB2020524742702008A81F1 /* tnl.jpg */,
+				9AB201FD24742702008A81F1 /* vale.jpg */,
+				9AB201F724742701008A81F1 /* valleyparade.jpg */,
+				9AB201FA24742702008A81F1 /* wembley.jpg */,
+				9A35C52C2435F58400580C20 /* stadiumData.json */,
+				9A2A75522493D63700EA286E /* ashton.jpg */,
+				9A2A75512493D63700EA286E /* brentford.jpg */,
+				9A2A755D2493D63700EA286E /* cardiff.jpg */,
+				9A2A75612493D63800EA286E /* craven.jpg */,
+				9A2A75622493D63800EA286E /* deepdale.jpg */,
+				9A2A75552493D63700EA286E /* den.jpg */,
+				9A2A75502493D63600EA286E /* dw.jpg */,
+				9A2A754D2493D63600EA286E /* ewood.jpg */,
+				9A2A75792493D6B800EA286E /* leeds.jpg */,
+				9A2A754E2493D63600EA286E /* hills.jpg */,
+				9A2A75542493D63700EA286E /* hudds.jpg */,
+				9A2A754F2493D63600EA286E /* kcom.jpg */,
+				9A2A755C2493D63700EA286E /* luton.jpg */,
+				9A2A75562493D63700EA286E /* mad.jpg */,
+				9A2A755B2493D63700EA286E /* nottsF.jpg */,
+				9A2A75572493D63700EA286E /* oakwell.jpg */,
+				9A2A755E2493D63700EA286E /* qpr.jpg */,
+				9A2A75582493D63700EA286E /* riverside.jpg */,
+				9A2A75592493D63700EA286E /* stoke.jpg */,
+				9A2A755F2493D63800EA286E /* swan.jpg */,
+				9A2A75602493D63800EA286E /* valley.jpg */,
+				9A2A755A2493D63700EA286E /* wba.jpg */,
+				9A2A75812497B47E00EA286E /* amex.jpg */,
+				9A2A758B2497B47E00EA286E /* anfield.jpg */,
+				9A2A758D2497B47E00EA286E /* bramall.jpg */,
+				9A2A757C2497B47D00EA286E /* carrow.jpg */,
+				9A2A757D2497B47D00EA286E /* dean.jpg */,
+				9A2A75882497B47E00EA286E /* etihad.jpg */,
+				9A2A75852497B47E00EA286E /* goodison.jpg */,
+				9A2A75892497B47E00EA286E /* kp.jpg */,
+				9A2A75832497B47E00EA286E /* OT.jpg */,
+				9A2A758A2497B47E00EA286E /* selhurst.jpg */,
+				9A2A75A32497B53800EA286E /* SMP.jpg */,
+				9A2A758C2497B47E00EA286E /* SJP.jpg */,
+				9A2A75842497B47E00EA286E /* stamford.jpg */,
+				9A2A75A52497B61100EA286E /* ths.jpg */,
+				9A2A757B2497B47D00EA286E /* turf.jpg */,
+				9A2A757E2497B47D00EA286E /* villa.jpg */,
+				9A2A75A12497B49E00EA286E /* VRW.jpg */,
+				9A2A757F2497B47D00EA286E /* whu.jpg */,
+				9A2A75802497B47E00EA286E /* WOL.jpg */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9A35C4E62435EB7100580C20 /* Stadiums */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A35C5112435EB7300580C20 /* Build configuration list for PBXNativeTarget "Stadiums" */;
+			buildPhases = (
+				9A35C4E32435EB7100580C20 /* Sources */,
+				9A35C4E42435EB7100580C20 /* Frameworks */,
+				9A35C4E52435EB7100580C20 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Stadiums;
+			productName = Landmarks;
+			productReference = 9A35C4E72435EB7100580C20 /* Stadiums.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9A35C4FC2435EB7300580C20 /* StadiumsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A35C5142435EB7300580C20 /* Build configuration list for PBXNativeTarget "StadiumsTests" */;
+			buildPhases = (
+				9A35C4F92435EB7300580C20 /* Sources */,
+				9A35C4FA2435EB7300580C20 /* Frameworks */,
+				9A35C4FB2435EB7300580C20 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9A35C4FF2435EB7300580C20 /* PBXTargetDependency */,
+			);
+			name = StadiumsTests;
+			productName = LandmarksTests;
+			productReference = 9A35C4FD2435EB7300580C20 /* StadiumsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9A35C5072435EB7300580C20 /* StadiumsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A35C5172435EB7300580C20 /* Build configuration list for PBXNativeTarget "StadiumsUITests" */;
+			buildPhases = (
+				9A35C5042435EB7300580C20 /* Sources */,
+				9A35C5052435EB7300580C20 /* Frameworks */,
+				9A35C5062435EB7300580C20 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9A35C50A2435EB7300580C20 /* PBXTargetDependency */,
+			);
+			name = StadiumsUITests;
+			productName = LandmarksUITests;
+			productReference = 9A35C5082435EB7300580C20 /* StadiumsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9A35C4DF2435EB7100580C20 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1140;
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = "Casey Henderson";
+				TargetAttributes = {
+					9A35C4E62435EB7100580C20 = {
+						CreatedOnToolsVersion = 11.4;
+					};
+					9A35C4FC2435EB7300580C20 = {
+						CreatedOnToolsVersion = 11.4;
+						TestTargetID = 9A35C4E62435EB7100580C20;
+					};
+					9A35C5072435EB7300580C20 = {
+						CreatedOnToolsVersion = 11.4;
+						TestTargetID = 9A35C4E62435EB7100580C20;
+					};
+				};
+			};
+			buildConfigurationList = 9A35C4E22435EB7100580C20 /* Build configuration list for PBXProject "Stadiums" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9A35C4DE2435EB7100580C20;
+			productRefGroup = 9A35C4E82435EB7100580C20 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9A35C4E62435EB7100580C20 /* Stadiums */,
+				9A35C4FC2435EB7300580C20 /* StadiumsTests */,
+				9A35C5072435EB7300580C20 /* StadiumsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9A35C4E52435EB7100580C20 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9AB20258248E8397008A81F1 /* shrew.jpg in Resources */,
+				9AB2020D24742703008A81F1 /* chelt.jpg in Resources */,
+				9A2A75922497B47F00EA286E /* whu.jpg in Resources */,
+				9AB2022224742703008A81F1 /* bescot.jpg in Resources */,
+				9AB2024F248E8397008A81F1 /* portman.jpg in Resources */,
+				9A2A759F2497B47F00EA286E /* SJP.jpg in Resources */,
+				9AB2025B248E8397008A81F1 /* kassam.jpg in Resources */,
+				9AB2022524742703008A81F1 /* brunton.jpg in Resources */,
+				9AB2022124742703008A81F1 /* tnl.jpg in Resources */,
+				9A2A75742493D63800EA286E /* qpr.jpg in Resources */,
+				9A35C4F72435EB7200580C20 /* LaunchScreen.storyboard in Resources */,
+				9A2A75902497B47F00EA286E /* dean.jpg in Resources */,
+				9A2A75662493D63800EA286E /* dw.jpg in Resources */,
+				9A2A75A02497B47F00EA286E /* bramall.jpg in Resources */,
+				9AB2025D248E8397008A81F1 /* wycombe.jpg in Resources */,
+				9A2A75712493D63800EA286E /* nottsF.jpg in Resources */,
+				9AB2024C248E8397008A81F1 /* fratton.jpg in Resources */,
+				9AB20249248E8397008A81F1 /* priestfield.jpg in Resources */,
+				9A2A75972497B47F00EA286E /* stamford.jpg in Resources */,
+				9AB2024D248E8397008A81F1 /* highbury.jpg in Resources */,
+				9A35C5392435F58400580C20 /* stadiumData.json in Resources */,
+				9AB2022A24742A60008A81F1 /* keepmoat.jpg in Resources */,
+				9AB2021D24742703008A81F1 /* pts.jpg in Resources */,
+				9A2A757A2493D6B800EA286E /* leeds.jpg in Resources */,
+				9A2A756F2493D63800EA286E /* stoke.jpg in Resources */,
+				9A2A75942497B47F00EA286E /* amex.jpg in Resources */,
+				9A2A75782493D63800EA286E /* deepdale.jpg in Resources */,
+				9A2A75A42497B53800EA286E /* SMP.jpg in Resources */,
+				9AB2025E248E8397008A81F1 /* roots.jpg in Resources */,
+				9AB20260248E8419008A81F1 /* dale.jpg in Resources */,
+				9AB2021F24742703008A81F1 /* alexandra.jpg in Resources */,
+				9A2A756B2493D63800EA286E /* den.jpg in Resources */,
+				9AB20251248E8397008A81F1 /* bloomfield.jpg in Resources */,
+				9AB2021424742703008A81F1 /* broadfield.jpg in Resources */,
+				9AB20259248E8397008A81F1 /* prenton.jpg in Resources */,
+				9AB20250248E8397008A81F1 /* pufc.jpg in Resources */,
+				9A2A75912497B47F00EA286E /* villa.jpg in Resources */,
+				9A2A756D2493D63800EA286E /* oakwell.jpg in Resources */,
+				9A2A75702493D63800EA286E /* wba.jpg in Resources */,
+				9A2A75772493D63800EA286E /* craven.jpg in Resources */,
+				9A2A759D2497B47F00EA286E /* selhurst.jpg in Resources */,
+				9AB2022624742703008A81F1 /* globe.jpg in Resources */,
+				9A2A75682493D63800EA286E /* ashton.jpg in Resources */,
+				9A2A75A62497B61100EA286E /* ths.jpg in Resources */,
+				9A2A756E2493D63800EA286E /* riverside.jpg in Resources */,
+				9A2A75632493D63800EA286E /* ewood.jpg in Resources */,
+				9A35C4F42435EB7200580C20 /* Preview Assets.xcassets in Resources */,
+				9A2A759C2497B47F00EA286E /* kp.jpg in Resources */,
+				9AB2021E24742703008A81F1 /* fieldmill.jpg in Resources */,
+				9A2A75642493D63800EA286E /* hills.jpg in Resources */,
+				9AB2024E248E8397008A81F1 /* memorial.jpg in Resources */,
+				9A2A75652493D63800EA286E /* kcom.jpg in Resources */,
+				9AB2021924742703008A81F1 /* vale.jpg in Resources */,
+				9A2A75672493D63800EA286E /* brentford.jpg in Resources */,
+				9AB2022724742703008A81F1 /* boundary.jpg in Resources */,
+				9A2A75722493D63800EA286E /* luton.jpg in Resources */,
+				9AB2021524742703008A81F1 /* countyg.jpg in Resources */,
+				9AB2021324742703008A81F1 /* valleyparade.jpg in Resources */,
+				9A2A759B2497B47F00EA286E /* etihad.jpg in Resources */,
+				9A2A75732493D63800EA286E /* cardiff.jpg in Resources */,
+				9AB20256248E8397008A81F1 /* pirelli.jpg in Resources */,
+				9A2A75932497B47F00EA286E /* WOL.jpg in Resources */,
+				9AB2020E24742703008A81F1 /* glanford.jpg in Resources */,
+				9A2A75962497B47F00EA286E /* OT.jpg in Resources */,
+				9A2A756A2493D63800EA286E /* hudds.jpg in Resources */,
+				9A2A75762493D63800EA286E /* valley.jpg in Resources */,
+				9AB2025C248E8397008A81F1 /* wham.jpg in Resources */,
+				9AB2022C24742B35008A81F1 /* mrg.jpg in Resources */,
+				9A2A75752493D63800EA286E /* swan.jpg in Resources */,
+				9A2A75982497B47F00EA286E /* goodison.jpg in Resources */,
+				9AB2024B248E8397008A81F1 /* mk.jpg in Resources */,
+				9AB2021124742703008A81F1 /* hpp.jpg in Resources */,
+				9AB2021B24742703008A81F1 /* emirates.jpg in Resources */,
+				9A2A756C2493D63800EA286E /* mad.jpg in Resources */,
+				9AB2021A24742703008A81F1 /* lamex.jpg in Resources */,
+				9AB2022024742703008A81F1 /* pridepark.jpg in Resources */,
+				9A2A759E2497B47F00EA286E /* anfield.jpg in Resources */,
+				9AB2021224742703008A81F1 /* ccs.jpg in Resources */,
+				9AB2020F24742703008A81F1 /* abbey.jpg in Resources */,
+				9AB2022324742703008A81F1 /* rodney.jpg in Resources */,
+				9A2A758F2497B47F00EA286E /* carrow.jpg in Resources */,
+				9AB20253248E8397008A81F1 /* sunderland.jpg in Resources */,
+				9AB2022424742703008A81F1 /* stjamese.jpg in Resources */,
+				9A35C4F12435EB7200580C20 /* Assets.xcassets in Resources */,
+				9AB20257248E8397008A81F1 /* lincoln.jpg in Resources */,
+				9AB2025A248E8397008A81F1 /* rot.jpg in Resources */,
+				9A2A75A22497B49E00EA286E /* VRW.jpg in Resources */,
+				9AB20254248E8397008A81F1 /* bolton.jpg in Resources */,
+				9A2A758E2497B47F00EA286E /* turf.jpg in Resources */,
+				9AB2021024742703008A81F1 /* blp.jpg in Resources */,
+				9AB20255248E8397008A81F1 /* kingsmeadow.jpg in Resources */,
+				9AB2021824742703008A81F1 /* brisbane.jpg in Resources */,
+				9AB2021624742703008A81F1 /* wembley.jpg in Resources */,
+				9AB2021724742703008A81F1 /* peninsula.jpg in Resources */,
+				9AB20252248E8397008A81F1 /* standrews.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A35C4FB2435EB7300580C20 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A35C5062435EB7300580C20 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9A35C4E32435EB7100580C20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A35C5222435F49000580C20 /* Data.swift in Sources */,
+				9A35C4EB2435EB7100580C20 /* AppDelegate.swift in Sources */,
+				9AB2022E2483C5C8008A81F1 /* CategoryRow.swift in Sources */,
+				9A35C51B2435EE3000580C20 /* CircleImage.swift in Sources */,
+				9A35C51D2435EF4900580C20 /* MapView.swift in Sources */,
+				9AB202302483C5D4008A81F1 /* Home.swift in Sources */,
+				9A2A75F224A0FE6000EA286E /* Country.swift in Sources */,
+				9AA82D0724B341E400F9C6BE /* Helper.swift in Sources */,
+				9AA82D0924B38EE000F9C6BE /* SlimStadium.swift in Sources */,
+				9A35C5422435F7EE00580C20 /* StadiumList.swift in Sources */,
+				9A35C4ED2435EB7100580C20 /* SceneDelegate.swift in Sources */,
+				9A2A75F0249D1EAC00EA286E /* CountryMap.swift in Sources */,
+				9A35C4EF2435EB7100580C20 /* StadiumDetail.swift in Sources */,
+				9A35C5402435F63500580C20 /* StadiumRow.swift in Sources */,
+				9A35C5442436592E00580C20 /* UserData.swift in Sources */,
+				9A35C5202435F39000580C20 /* Stadium.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A35C4F92435EB7300580C20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A35C5022435EB7300580C20 /* StadiumsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A35C5042435EB7300580C20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A35C50D2435EB7300580C20 /* StadiumsUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9A35C4FF2435EB7300580C20 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9A35C4E62435EB7100580C20 /* Stadiums */;
+			targetProxy = 9A35C4FE2435EB7300580C20 /* PBXContainerItemProxy */;
+		};
+		9A35C50A2435EB7300580C20 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9A35C4E62435EB7100580C20 /* Stadiums */;
+			targetProxy = 9A35C5092435EB7300580C20 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9A35C4F52435EB7200580C20 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9A35C4F62435EB7200580C20 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9A35C50F2435EB7300580C20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9A35C5102435EB7300580C20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9A35C5122435EB7300580C20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_ASSET_PATHS = "\"Stadiums/Preview Content\"";
+				DEVELOPMENT_TEAM = 4VRL73RTDL;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Stadiums/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = caseyhenderson.Stadiums;
+				PRODUCT_NAME = Stadiums;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9A35C5132435EB7300580C20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_ASSET_PATHS = "\"Stadiums/Preview Content\"";
+				DEVELOPMENT_TEAM = 4VRL73RTDL;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Stadiums/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = caseyhenderson.Stadiums;
+				PRODUCT_NAME = Stadiums;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9A35C5152435EB7300580C20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4VRL73RTDL;
+				INFOPLIST_FILE = LandmarksTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = caseyhenderson.LandmarksTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Landmarks.app/Landmarks";
+			};
+			name = Debug;
+		};
+		9A35C5162435EB7300580C20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4VRL73RTDL;
+				INFOPLIST_FILE = LandmarksTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = caseyhenderson.LandmarksTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Landmarks.app/Landmarks";
+			};
+			name = Release;
+		};
+		9A35C5182435EB7300580C20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4VRL73RTDL;
+				INFOPLIST_FILE = StadiumsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = caseyhenderson.StadiumsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Stadiums;
+			};
+			name = Debug;
+		};
+		9A35C5192435EB7300580C20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4VRL73RTDL;
+				INFOPLIST_FILE = StadiumsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = caseyhenderson.StadiumsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Stadiums;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9A35C4E22435EB7100580C20 /* Build configuration list for PBXProject "Stadiums" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A35C50F2435EB7300580C20 /* Debug */,
+				9A35C5102435EB7300580C20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A35C5112435EB7300580C20 /* Build configuration list for PBXNativeTarget "Stadiums" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A35C5122435EB7300580C20 /* Debug */,
+				9A35C5132435EB7300580C20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A35C5142435EB7300580C20 /* Build configuration list for PBXNativeTarget "StadiumsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A35C5152435EB7300580C20 /* Debug */,
+				9A35C5162435EB7300580C20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A35C5172435EB7300580C20 /* Build configuration list for PBXNativeTarget "StadiumsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A35C5182435EB7300580C20 /* Debug */,
+				9A35C5192435EB7300580C20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9A35C4DF2435EB7100580C20 /* Project object */;
+}

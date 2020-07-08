@@ -1,0 +1,1740 @@
+[
+    {
+        "name": "Keepmoat Stadium",
+        "category": "EFL League One",
+        "city": "Doncaster",
+        "county": "South Yorkshire",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "favourite": false,
+        "club": "Doncaster Rovers F.C.",
+        "coordinates": {
+            "longitude": -1.114629,
+            "latitude": 53.510358
+        },
+        "imageName": "keepmoat",
+        "wikiLink": "https://en.wikipedia.org/wiki/Keepmoat_Stadium",
+        "credit": "Keepmoat Stadium by Thomas13 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9422871"
+    },
+
+    {
+        "name": "Wham Stadium",
+        "category": "EFL League One",
+        "city": "Accrington",
+        "county": "Lancashire",
+        "id": 1029,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Accrington Stanley",
+        "coordinates": {
+            "longitude": -2.370820,
+            "latitude": 53.765189
+        },
+        "imageName": "wham",
+        "wikiLink": "https://en.wikipedia.org/wiki/Wham_Stadium",
+        "credit": "Wham Stadium By COYB01 - Accrington Stanley 2-3 Shrewsbury Town, football match, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82673386"
+    },
+    
+    {
+        "name": "Kingsmeadow",
+        "category": "EFL League One",
+        "city": "Kingston upon Thames",
+        "county": "London",
+        "id": 1030,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "AFC Wimbledon",
+        "coordinates": {
+            "longitude": -0.282324,
+            "latitude": 51.405400
+        },
+        "imageName": "kingsmeadow",
+        "wikiLink": "https://en.wikipedia.org/wiki/Kingsmeadow",
+        "credit": "Kingsmeadow by Adam Procter - originally posted to Flickr as Afc Wimbledon v Ramgate, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12109859"
+    },
+    
+    {
+        "name": "Bloomfield Road",
+        "category": "EFL League One",
+        "city": "Blackpool",
+        "county": "Lancashire",
+        "id": 1031,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Blackpool F.C.",
+        "coordinates": {
+            "longitude": -3.049043,
+            "latitude": 53.804796
+        },
+        "imageName": "bloomfield",
+        "wikiLink": "https://en.wikipedia.org/wiki/Bloomfield_Road",
+        "credit": "Bloomfield Road by Terry Robinson, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12002379"
+    },
+    
+    {
+        "name": "University of Bolton Stadium",
+        "category": "EFL League One",
+        "city": "Bolton",
+        "county": "Greater Manchester",
+        "id": 1032,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Bolton Wanderers F.C.",
+        "coordinates": {
+            "longitude": -2.536084,
+            "latitude": 53.579818
+        },
+        "imageName": "bolton",
+        "wikiLink": "https://en.wikipedia.org/wiki/University_of_Bolton_Stadium",
+        "credit": "University of Bolton Stadium by Mark Hammond from London, England - Reebok Stadium, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=2430922"
+    },
+    
+    {
+        "name": "Memorial Stadium",
+        "category": "EFL League One",
+        "city": "Bristol",
+        "county": "Bristol",
+        "id": 1033,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Bristol Rovers F.C.",
+        "coordinates": {
+            "longitude": -2.583163,
+            "latitude": 51.486214
+        },
+        "imageName": "memorial",
+        "wikiLink": "https://en.wikipedia.org/wiki/Memorial_Stadium",
+        "credit": "Memorial Stadium by Chris clements at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12217226"
+    },
+    
+    {
+        "name": "Pirelli Stadium",
+        "category": "EFL League One",
+        "city": "Burton upon Trent",
+        "county": "Staffordshire",
+        "id": 1034,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Burton Albion F.C.",
+        "coordinates": {
+            "longitude": -1.627053,
+            "latitude": 52.821465
+        },
+        "imageName": "pirelli",
+        "wikiLink": "https://en.wikipedia.org/wiki/Pirelli_Stadium",
+        "credit": "Pirelli Stadium by Alan Slater, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9293851"
+    },
+    
+    {
+        "name": "St Andrew's",
+        "category": "EFL League One",
+        "city": "Birmingham",
+        "county": "West Midlands",
+        "id": 1035,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Coventry City F.C.",
+        "coordinates": {
+            "longitude": -1.868326,
+            "latitude": 52.475652
+        },
+        "imageName": "standrews",
+        "wikiLink": "https://en.wikipedia.org/wiki/St_Andrew%27s_(stadium)",
+        "credit": "St Andrew's Stadium by Struway - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7129371"
+    },
+    
+    {
+        "name": "Highbury Stadium",
+        "category": "EFL League One",
+        "city": "Fleetwood",
+        "county": "Lancashire",
+        "id": 1036,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Fleetwood Town F.C.",
+        "coordinates": {
+            "longitude": -3.024883,
+            "latitude": 53.916619
+        },
+        "imageName": "highbury",
+        "wikiLink": "https://en.wikipedia.org/wiki/Highbury_Stadium_(Fleetwood)",
+        "credit": "Highbury Stadium by David Dixon, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=20486685"
+        
+    },
+    
+    {
+        "name": "Priestfield Stadium",
+        "category": "EFL League One",
+        "city": "Gillingham",
+        "county": "Kent",
+        "id": 1037,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Gillingham F.C.",
+        "coordinates": {
+            "longitude": 0.560914,
+            "latitude": 51.384189
+        },
+        "imageName": "priestfield",
+        "wikiLink": "https://en.wikipedia.org/wiki/Priestfield_Stadium",
+        "credit": "Priestfield Stadium: The original uploader was ChrisTheDude at English Wikipedia. - Transferred from en.wikipedia to Commons by IngerAlHaosului using CommonsHelper., CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9493498"
+    },
+    
+    {
+        "name": "Portman Road",
+        "category": "EFL League One",
+        "city": "Ipswich",
+        "county": "Suffolk",
+        "id": 1038,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Ipswich Town F.C.",
+        "coordinates": {
+            "longitude": 1.145210,
+            "latitude": 52.054967
+        },
+        "imageName": "portman",
+         "wikiLink": "https://en.wikipedia.org/wiki/Portman_Road",
+         "credit": "Portman Road by John Fielding from Norwich, UK - ipswich football ground, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43893138"
+        
+    },
+    
+    {
+        "name": "LNER Stadium",
+        "category": "EFL League One",
+        "city": "Lincoln",
+        "county": "Lincolnshire",
+        "id": 1039,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Lincoln City F.C.",
+        "coordinates": {
+            "longitude": -0.541027,
+            "latitude": 53.218167
+        },
+        "imageName": "lincoln",
+         "wikiLink": "https://en.wikipedia.org/wiki/Sincil_Bank",
+         "credit": "LNER Stadium by Differentgravy at the English language Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5960387"
+         
+    },
+    
+    {
+        "name": "Stadium MK",
+        "category": "EFL League One",
+        "city": "Milton Keynes",
+        "county": "Buckinghamshire",
+        "id": 1040,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Milton Keynes Dons F.C.",
+        "coordinates": {
+            "longitude": -0.7333388,
+            "latitude": 52.009703
+        },
+        "imageName": "mk",
+        "wikiLink": "https://en.wikipedia.org/wiki/Stadium_MK",
+        "credit": "Stadium MK by Beechey604 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47680326"
+    },
+    
+    {
+        "name": "Kassam Stadium",
+        "category": "EFL League One",
+        "city": "Oxford",
+        "county": "Oxfordshire",
+        "id": 1041,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Oxford United F.C.",
+        "coordinates": {
+            "longitude": -1.207829,
+            "latitude": 51.716471
+        },
+        "imageName": "kassam",
+        "wikiLink": "https://en.wikipedia.org/wiki/Kassam_Stadium",
+        "credit": "Kassam Stadium by Nigel Cox, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=7296231"
+    },
+    
+    {
+        "name": "Weston Homes Stadium",
+        "category": "EFL League One",
+        "city": "Peterborough",
+        "county": "Cambridgeshire",
+        "id": 1042,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Peterborough United F.C.",
+        "coordinates": {
+            "longitude": -0.240387,
+            "latitude": 52.564713
+        },
+        "imageName": "pufc",
+        "wikiLink": "https://en.wikipedia.org/wiki/Weston_Homes_Stadium",
+        "credit": "Weston Homes Stadium by Rodney Burton, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9266023"
+    },
+    
+    {
+        "name": "Fratton Park",
+        "category": "EFL League One",
+        "city": "Portsmouth",
+        "county": "Hampshire",
+        "id": 1043,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Portsmouth F.C.",
+        "coordinates": {
+            "longitude": -1.063790,
+            "latitude": 50.796352
+        },
+        "imageName": "fratton",
+        "wikiLink": "https://en.wikipedia.org/wiki/Fratton_Park",
+        "credit": "Fratton Park by Ben Hardinge - Flickr: DSCF0938, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=12524414"
+    },
+    
+    {
+        "name": "Crown Oil Arena",
+        "category": "EFL League One",
+        "city": "Rochdale",
+        "county": "Greater Manchester",
+        "id": 1044,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Rochdale A.F.C.",
+        "coordinates": {
+            "longitude": -2.180730,
+            "latitude": 53.620533
+        },
+        "imageName": "dale",
+        "wikiLink": "https://en.wikipedia.org/wiki/Crown_Oil_Arena",
+        "credit": "Crown Oil Arena by Boothman at the English language Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12518451"
+    },
+    
+    {
+        "name": "AESSEAL New York Stadium",
+        "category": "EFL League One",
+        "city": "Rotherham",
+        "county": "South Yorkshire",
+        "id": 1045,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Rotherham United F.C.",
+        "coordinates": {
+            "longitude": -1.363005,
+            "latitude": 53.427038
+        },
+        "imageName": "rot",
+        "wikiLink": "https://en.wikipedia.org/wiki/New_York_Stadium",
+        "credit": "ASSEAL New York Stadium by Rotherhamlad1983 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20446535"
+    },
+    
+    {
+        "name": "Montgomery Waters Meadow",
+        "category": "EFL League One",
+        "city": "Shrewsbury",
+        "county": "Shropshire",
+        "id": 1046,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Shrewsbury Town F.C.",
+        "coordinates": {
+            "longitude": -2.748464,
+            "latitude": 52.688444
+        },
+        "imageName": "shrew",
+        "wikiLink": "https://en.wikipedia.org/wiki/New_Meadow",
+        "credit": "Montgomery Waters Meadow by James Humphreys - SalopianJames - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4296129"
+    },
+    
+    {
+        "name": "Roots Hall",
+        "category": "EFL League One",
+        "city": "Southend-on-Sea",
+        "county": "Essex",
+        "id": 1047,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Southend United F.C.",
+        "coordinates": {
+            "longitude": 0.701699,
+            "latitude": 51.548887
+        },
+        "imageName": "roots",
+        "wikiLink": "https://en.wikipedia.org/wiki/Roots_Hall",
+        "credit": "Roots Hall by Jimbo online - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12256979"
+    },
+    
+    {
+        "name": "Stadium of Light",
+        "category": "EFL League One",
+        "city": "Sunderland",
+        "county": "Tyne and Wear",
+        "id": 1048,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Sunderland F.C.",
+        "coordinates": {
+            "longitude": -1.388333,
+            "latitude": 54.914931
+        },
+        "imageName": "sunderland",
+        "wikiLink": "https://en.wikipedia.org/wiki/Stadium_of_Light",
+        "credit": "Stadium of Light by Mrs Logic - Stadium of Light, Sunderland, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18444034"
+    },
+    
+    {
+        "name": "Prenton Park",
+        "category": "EFL League One",
+        "city": "Birkenhead",
+        "county": "Merseyside",
+        "id": 1049,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Tranmere Rovers F.C.",
+        "coordinates": {
+            "longitude": -3.032665,
+            "latitude": 53.373426
+        },
+        "imageName": "prenton",
+        "wikiLink": "https://en.wikipedia.org/wiki/Prenton_Park",
+        "credit": "Prenton Park by SalopianTank01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=38517656"
+        
+    },
+    
+    {
+        "name": "Adams Park",
+        "category": "EFL League One",
+        "city": "High Wycombe",
+        "county": "Buckinghamshire",
+        "id": 1050,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Wycombe Wanderers F.C.",
+        "coordinates": {
+            "longitude": -0.799728,
+            "latitude": 51.630337
+        },
+        "imageName": "wycombe",
+        "wikiLink": "https://en.wikipedia.org/wiki/Adams_Park",
+        "credit": "Adams Park by DipsyDave - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16870863"
+    },
+    
+    
+    {
+        "name": "Wembley",
+        "category": "International",
+        "city": "London",
+        "county": "London",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "England National Football Team",
+        "coordinates": {
+            "longitude": -0.279432,
+            "latitude": 51.556300
+        },
+        "imageName": "wembley",
+        "wikiLink": "https://en.wikipedia.org/wiki/Wembley_Stadium",
+        "credit": "Wembley by Jbmg40 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4268970"
+    },
+    
+    
+    {
+        "name": "Pride Park",
+        "category": "EFL Championship",
+        "city": "Derby",
+        "county": "Derbyshire",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "favourite": false,
+        "club": "Derby County F.C.",
+        "coordinates": {
+            "longitude": -1.446161,
+            "latitude": 52.914893
+        },
+        "imageName": "pridepark",
+        "wikiLink": "https://en.wikipedia.org/wiki/Pride_Park_Stadium",
+        "credit": "Pride Park By Ed6767 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90180096"
+    },
+    
+    {
+        "name": "Oakwell",
+        "category": "EFL Championship",
+        "city": "Barnsley",
+        "county": "South Yorkshire",
+        "id": 1051,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Barnsley F.C.",
+        "coordinates": {
+            "longitude": -1.468213,
+            "latitude": 53.551732
+        },
+        "imageName": "oakwell",
+        "wikiLink": "https://en.wikipedia.org/wiki/Oakwell",
+        "credit": "Oakwell by Martin Thirkettle, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=14237213"
+    },
+    
+    {
+        "name": "St Andrew's",
+        "category": "EFL Championship",
+        "city": "Birmingham",
+        "county": "West Midlands",
+        "id": 1052,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Birmingham City F.C.",
+        "coordinates": {
+            "longitude": -1.868326,
+            "latitude": 52.475652
+        },
+        "imageName": "standrews",
+        "wikiLink": "https://en.wikipedia.org/wiki/St_Andrew%27s_(stadium)",
+        "credit": "St Andrew's Stadium by Struway - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7129371"
+    },
+    
+    {
+        "name": "Ewood Park",
+        "category": "EFL Championship",
+        "city": "Blackburn",
+        "county": "Lancashire",
+        "id": 1053,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Blackburn Rovers F.C.",
+        "coordinates": {
+            "longitude": -2.489178,
+            "latitude": 53.728613
+        },
+        "imageName": "ewood",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ewood_Park",
+        "credit": "Ewood Park By Ronnie Macdonald from Chelmsford, United Kingdom - Ewood Park 1Uploaded by Kafuffle, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16845652"
+        
+    },
+    
+    {
+        "name": "Griffin Park",
+        "category": "EFL Championship",
+        "city": "London",
+        "county": "Greater London",
+        "id": 1054,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Brentford F.C.",
+        "coordinates": {
+            "longitude": -0.288756,
+            "latitude": 51.490688
+        },
+        "imageName": "brentford",
+        "wikiLink": "https://en.wikipedia.org/wiki/Griffin_Park",
+        "credit": "Griffin Park by Andreas Praefcke - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15577989"
+    },
+    
+    {
+        "name": "Ashton Gate",
+        "category": "EFL Championship",
+        "city": "Bristol",
+        "county": "Bristol",
+        "id": 1055,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Bristol City F.C.",
+        "coordinates": {
+            "longitude": -2.620302,
+            "latitude": 51.440122
+        },
+        "imageName": "ashton",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ashton_Gate",
+        "credit": "Ashton Gate by Bailey8891 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80969472"
+    },
+    
+    {
+        "name": "Cardiff City Stadium",
+        "category": "EFL Championship",
+        "city": "Cardiff",
+        "county": "Wales",
+        "id": 1056,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Cardiff City F.C.",
+        "coordinates": {
+            "longitude": -3.203036,
+            "latitude": 51.472830
+        },
+        "imageName": "cardiff",
+        "wikiLink": "https://en.wikipedia.org/wiki/Cardiff_City_Stadium",
+        "credit": "Cardiff City Stadium by Jon Candy from Cardiff, Wales - Cardiff City Stadium Pitch, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12750791"
+    },
+    
+    {
+        "name": "The Valley",
+        "category": "EFL Championship",
+        "city": "London",
+        "county": "Greater London",
+        "id": 1057,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Charlton Athletic F.C.",
+        "coordinates": {
+            "longitude": 0.035856,
+            "latitude": 51.486702
+        },
+        "imageName": "valley",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Valley_(London)",
+        "credit": "The Valley by Mark Fosh - originally posted to Flickr as Charlton Athletic football ground, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=4584903"
+    },
+    
+    {
+        "name": "Craven Cottage",
+        "category": "EFL Championship",
+        "city": "London",
+        "county": "Greater London",
+        "id": 1058,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Fulham F.C.",
+        "coordinates": {
+            "longitude": -0.221783,
+            "latitude": 51.474911
+        },
+        "imageName": "craven",
+        "wikiLink": "https://en.wikipedia.org/wiki/Craven_Cottage",
+        "credit": "Craven Cottage by Kenneth Yarham, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=13432029"
+        
+    },
+    
+    {
+        "name": "The John Smith's Stadium",
+        "category": "EFL Championship",
+        "city": "Huddersfield",
+        "county": "West Yorkshire",
+        "id": 1059,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Huddersfield Town F.C.",
+        "coordinates": {
+            "longitude": -1.768930,
+            "latitude": 53.654775
+        },
+        "imageName": "hudds",
+        "wikiLink": "https://en.wikipedia.org/wiki/Kirklees_Stadium",
+        "credit": "John Smith's Stadium by Peanut4 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4549646"
+    },
+    
+    {
+        "name": "KCOM Stadium",
+        "category": "EFL Championship",
+        "city": "Hull",
+        "county": "East Riding of Yorkshire",
+        "id": 1060,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Hull City F.C.",
+        "coordinates": {
+            "longitude": -0.368063,
+            "latitude": 53.745943
+        },
+        "imageName": "kcom",
+        "wikiLink": "https://en.wikipedia.org/wiki/KCOM_Stadium",
+        "credit": "KCOM Stadium by Kai Connell - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67244489"
+    },
+    
+    {
+        "name": "Elland Road",
+        "category": "EFL Championship",
+        "city": "Leeds",
+        "county": "West Yorkshire",
+        "id": 1061,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Leeds United F.C.",
+        "coordinates": {
+            "longitude": -1.572130,
+            "latitude": 53.777846
+        },
+        "imageName": "leeds",
+        "wikiLink": "https://en.wikipedia.org/wiki/Elland_Road",
+        "credit": "Elland Road by Auz - originally posted to Flickr as Elland road pre-kick off, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=5861792"
+    },
+    
+    {
+        "name": "Kenilworth Road",
+        "category": "EFL Championship",
+        "city": "Luton",
+        "county": "Bedfordshire",
+        "id": 1062,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Luton Town F.C.",
+        "coordinates": {
+            "longitude": -0.432470,
+            "latitude": 51.884172
+        },
+        "imageName": "luton",
+        "wikiLink": "https://en.wikipedia.org/wiki/Kenilworth_Road",
+        "credit": "Public Domain, https://commons.wikimedia.org/w/index.php?curid=2777519"
+    },
+    
+    {
+        "name": "Riverside Stadium",
+        "category": "EFL Championship",
+        "city": "Middlesbrough",
+        "county": "North Yorkshire",
+        "id": 1063,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Middlesbrough F.C.",
+        "coordinates": {
+            "longitude": -1.218172,
+            "latitude": 54.577995
+        },
+        "imageName": "riverside",
+        "wikiLink": "https://en.wikipedia.org/wiki/Riverside_Stadium",
+        "credit": "Riverside Stadium by User:Anthony Winward, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=50559911"
+    },
+    
+    {
+        "name": "The Den",
+        "category": "EFL Championship",
+        "city": "London",
+        "county": "Greater London",
+        "id": 1064,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Millwall F.C.",
+        "coordinates": {
+            "longitude": -0.050986,
+            "latitude": 51.486053
+        },
+        "imageName": "den",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Den",
+        "credit": "The Den By Richard Croft, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=13514006"
+    },
+    
+    {
+        "name": "City Ground",
+        "category": "EFL Championship",
+        "city": "Nottingham",
+        "county": "Nottinghamshire",
+        "id": 1065,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Nottingham Forest F.C.",
+        "coordinates": {
+            "longitude": -1.133421,
+            "latitude": 52.939234
+        },
+        "imageName": "nottsF",
+        "wikiLink": "https://en.wikipedia.org/wiki/City_Ground",
+        "credit": "City Ground by By mattbuck (category) - Own work by mattbuck. CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20800762"
+    },
+    
+    {
+        "name": "Deepdale",
+        "category": "EFL Championship",
+        "city": "Preston",
+        "county": "Lancashire",
+        "id": 1066,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Preston North End F.C.",
+        "coordinates": {
+            "longitude": -2.688402,
+            "latitude": 53.772264
+        },
+        "imageName": "deepdale",
+        "wikiLink": "https://en.wikipedia.org/wiki/Deepdale",
+        "credit": "Deepdale by ​English Wikipedia user Hudson6dogs, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5564115"
+    },
+    
+    {
+        "name": "The Kiyan Prince Foundation Stadium",
+        "category": "EFL Championship",
+        "city": "London",
+        "county": "Greater London",
+        "id": 1067,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Queens Park Rangers F.C.",
+        "coordinates": {
+            "longitude": -0.232124,
+            "latitude": 51.509274
+        },
+        "imageName": "qpr",
+        "wikiLink": "https://en.wikipedia.org/wiki/Loftus_Road",
+        "credit": "The Kiyan Prince Foundation Stadium by Matt Churchill - Loftus Road 3, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=12232450"
+    },
+    
+    {
+        "name": "Madejski Stadium",
+        "category": "EFL Championship",
+        "city": "Reading",
+        "county": "Berkshire",
+        "id": 1068,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Reading F.C.",
+        "coordinates": {
+            "longitude": -0.982650,
+            "latitude": 51.422394
+        },
+        "imageName": "mad",
+        "wikiLink": "https://en.wikipedia.org/wiki/Madejski_Stadium",
+        "credit": "Madejski Stadium by Forces77 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=33202323"
+    },
+    
+    {
+        "name": "Hillsborough",
+        "category": "EFL Championship",
+        "city": "Sheffield",
+        "county": "South Yorkshire",
+        "id": 1069,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Sheffield Wednesday F.C.",
+        "coordinates": {
+            "longitude": -1.500921,
+            "latitude": 53.411397
+        },
+        "imageName": "hills",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hillsborough_Stadium",
+        "credit": "Hillsborough Stadium by Niallzi - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19350837"
+    },
+    
+    {
+        "name": "bet365 Stadium",
+        "category": "EFL Championship",
+        "city": "Stoke-on-Trent",
+        "county": "Staffordshire",
+        "id": 1070,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Stoke City F.C.",
+        "coordinates": {
+            "longitude": -2.175414,
+            "latitude": 52.988456
+        },
+        "imageName": "stoke",
+        "wikiLink": "https://en.wikipedia.org/wiki/bet365_Stadium",
+        "credit": "bet365 stadium by Ronnie Macdonald from Chelmsford, United Kingdom - Stoke City FC V Arsenal 09, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=12753260"
+    },
+    
+    {
+        "name": "Liberty Stadium",
+        "category": "EFL Championship",
+        "city": "Swansea",
+        "county": "Wales",
+        "id": 1071,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Swansea City F.C.",
+        "coordinates": {
+            "longitude": -3.934577,
+            "latitude": 51.642749
+        },
+        "imageName": "swan",
+        "wikiLink": "https://en.wikipedia.org/wiki/Liberty_Stadium",
+        "credit": "Liberty Stadium by Nigel Davies, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=9162924"
+    },
+    
+    {
+        "name": "The Hawthorns",
+        "category": "EFL Championship",
+        "city": "West Bromwich",
+        "county": "West Midlands",
+        "id": 1072,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "West Bromwich Albion F.C.",
+        "coordinates": {
+            "longitude": -1.963931,
+            "latitude": 52.509053
+        },
+        "imageName": "wba",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Hawthorns",
+        "credit": "The Hawthorns by Mattd1991 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4418204"
+    },
+    
+    {
+        "name": "DW Stadium",
+        "category": "EFL Championship",
+        "city": "Wigan",
+        "county": "Greater Manchester",
+        "id": 1073,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Wigan Athletic F.C.",
+        "coordinates": {
+            "longitude": -2.654110,
+            "latitude": 53.547686
+        },
+        "imageName": "dw",
+        "wikiLink": "https://en.wikipedia.org/wiki/DW_Stadium",
+        "credit": "DW Stadium by Terry Robinson, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=13372736"
+    },
+    
+    {
+        "name": "Vitality Stadium",
+        "category": "Premier League",
+        "city": "Bournemouth",
+        "county": "Dorset",
+        "id": 1074,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "AFC Bournemouth",
+        "coordinates": {
+            "longitude": -1.838333,
+            "latitude": 50.735278
+        },
+        "imageName": "dean",
+        "wikiLink": "https://en.wikipedia.org/wiki/Dean_Court",
+        "credit": "The Football Wiki"
+    },
+    
+    {
+        "name": "Emirates Stadium",
+        "category": "Premier League",
+        "city": "London",
+        "county": "London",
+        "id": 1075,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Arsenal F.C.",
+        "coordinates": {
+            "longitude": -0.108831,
+            "latitude": 51.554861
+        },
+        "imageName": "emirates",
+        "wikiLink": "https://en.wikipedia.org/wiki/Emirates_Stadium",
+        "credit": "Emirates Stadium by Julian Osley, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=14439838"
+    },
+    
+    {
+        "name": "Villa Park",
+        "category": "Premier League",
+        "city": "Birmingham",
+        "county": "West Midlands",
+        "id": 1076,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Aston Villa F.C.",
+        "coordinates": {
+            "longitude": -1.884722,
+            "latitude": 52.509167
+        },
+        "imageName": "villa",
+        "wikiLink": "https://en.wikipedia.org/wiki/Villa_Park",
+        "credit": "Villa Park by Ian Wilson from London, England - Villa Park, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3992217"
+    },
+    
+    {
+        "name": "The AmEx Stadium",
+        "category": "Premier League",
+        "city": "Brighton",
+        "county": "Sussex",
+        "id": 1077,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Brighton & Hove Albion F.C.",
+        "coordinates": {
+            "longitude": -0.083278,
+            "latitude": 50.861822
+        },
+        "imageName": "amex",
+        "wikiLink": "https://en.wikipedia.org/wiki/Falmer_Stadium",
+        "credit": "The Amex Stadium by Dominic Alves from Brighton, England. Uploaded by Kafuffle, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16030098"
+    },
+    
+    {
+        "name": "Turf Moor",
+        "category": "Premier League",
+        "city": "Burnley",
+        "county": "Lancashire",
+        "id": 1078,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Burnley F.C.",
+        "coordinates": {
+            "longitude": -2.230278,
+            "latitude": 53.789167
+        },
+        "imageName": "turf",
+        "wikiLink": "https://en.wikipedia.org/wiki/Turf_Moor",
+        "credit": "Turf Moor by Adam Haworth - Turf Moor, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=13508444"
+    },
+    
+    {
+        "name": "Stamford Bridge",
+        "category": "Premier League",
+        "city": "London",
+        "county": "London",
+        "id": 1079,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Chelsea F.C.",
+        "coordinates": {
+            "longitude": -0.191111,
+            "latitude": 51.481667
+        },
+        "imageName": "stamford",
+        "wikiLink": "https://en.wikipedia.org/wiki/Stamford_Bridge_(stadium)",
+        "credit": "Stamford Bridge by Vespa125125CFC at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19208906"
+    },
+    
+    {
+        "name": "Selhurst Park",
+        "category": "Premier League",
+        "city": "London",
+        "county": "London",
+        "id": 1080,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Crystal Palace F.C.",
+        "coordinates": {
+            "longitude": -0.085556,
+            "latitude": 51.398333
+        },
+        "imageName": "selhurst",
+        "wikiLink": "https://en.wikipedia.org/wiki/Selhurst_Park",
+        "credit": "Selhurst Park by Rockybiggs - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=38703623"
+    },
+    
+    {
+        "name": "Goodison Park",
+        "category": "Premier League",
+        "city": "Liverpool",
+        "county": "Merseyside",
+        "id": 1081,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Everton F.C.",
+        "coordinates": {
+            "longitude": -2.966389,
+            "latitude": 53.438889
+        },
+        "imageName": "goodison",
+        "wikiLink": "https://en.wikipedia.org/wiki/Goodison_Park",
+        "credit": "Goodison Park by Biloblue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61785891"
+    },
+    
+    {
+        "name": "King Power Stadium",
+        "category": "Premier League",
+        "city": "Leicester",
+        "county": "East Midlands",
+        "id": 1082,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Leicester City F.C.",
+        "coordinates": {
+            "longitude": -1.142222,
+            "latitude": 52.620278
+        },
+        "imageName": "kp",
+        "wikiLink": "https://en.wikipedia.org/wiki/King_Power_Stadium",
+        "credit": "DougPR, Wikimedia Commons Public Domain https://commons.wikimedia.org/wiki/File:King-Power-Stadium-Leicr.jpg"
+    },
+    
+    {
+        "name": "Anfield",
+        "category": "Premier League",
+        "city": "Liverpool",
+        "county": "Merseyside",
+        "id": 1083,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Liverpool F.C.",
+        "coordinates": {
+            "longitude": -2.960833,
+            "latitude": 53.430833
+        },
+        "imageName": "anfield",
+        "wikiLink": "https://en.wikipedia.org/wiki/Anfield",
+        "credit": "Anfield by Ruaraidh Gillies - The revamped Main Stand Anfield, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=56997857"
+    },
+    
+    {
+        "name": "Etihad Stadium",
+        "category": "Premier League",
+        "city": "Manchester",
+        "county": "Greater Manchester",
+        "id": 1084,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Manchester City F.C.",
+        "coordinates": {
+            "longitude": -2.200278,
+            "latitude": 53.483056
+        },
+        "imageName": "etihad",
+        "wikiLink": "https://en.wikipedia.org/wiki/City_of_Manchester_Stadium",
+        "credit": "Etihad Stadium by Profile - Etihad Stadium, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=49267698"
+    },
+    
+    {
+        "name": "Old Trafford",
+        "category": "Premier League",
+        "city": "Manchester",
+        "county": "Greater Manchester",
+        "id": 1085,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Manchester United F.C.",
+        "coordinates": {
+            "longitude": -2.291389,
+            "latitude": 53.463056
+        },
+        "imageName": "OT",
+        "wikiLink": "https://en.wikipedia.org/wiki/Old_Trafford",
+        "credit": "Old Trafford by MulaMiszcu on Pixabay https://pixabay.com/photos/old-trafford-manchester-united-1959155/"
+        
+    },
+    
+    {
+        "name": "St James' Park",
+        "category": "Premier League",
+        "city": "Newcastle",
+        "county": "Tyne and Wear",
+        "id": 1086,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Newcastle United F.C.",
+        "coordinates": {
+            "longitude": -1.621667,
+            "latitude": 54.975556
+        },
+        "imageName": "SJP",
+        "wikiLink": "https://en.wikipedia.org/wiki/St_James%27_Park",
+        "credit": "St James' Park by Joe89316 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11403252"
+    },
+    
+    {
+        "name": "Carrow Road",
+        "category": "Premier League",
+        "city": "Norwich",
+        "county": "Norfolk",
+        "id": 1087,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Norwich City F.C.",
+        "coordinates": {
+            "longitude": 1.308653,
+            "latitude": 52.622128
+        },
+        "imageName": "carrow",
+        "wikiLink": "https://en.wikipedia.org/wiki/Carrow_Road",
+        "credit": "Carrow Road by Pierre Terre, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=6007624"
+    },
+    
+    {
+        "name": "Bramall Lane",
+        "category": "Premier League",
+        "city": "Sheffield",
+        "county": "South Yorkshire",
+        "id": 1088,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Sheffield United F.C.",
+        "coordinates": {
+            "longitude": -1.470833,
+            "latitude": 53.370278
+        },
+        "imageName": "bramall",
+        "wikiLink": "https://en.wikipedia.org/wiki/Bramall_Lane",
+        "credit": "Bramall Lane by Lewisskinner at English Wikipedia. - Transferred from en.wikipedia to Commons., CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=2242895"
+    },
+    
+    {
+        "name": "St Mary's Stadium",
+        "category": "Premier League",
+        "city": "Southampton",
+        "county": "Hampshire",
+        "id": 1089,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Southampton F.C.",
+        "coordinates": {
+            "longitude": -1.391111,
+            "latitude": 50.905833
+        },
+        "imageName": "SMP",
+        "wikiLink": "https://en.wikipedia.org/wiki/St_Mary%27s_Stadium",
+        "credit": "St Mary's Stadium by User890899 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68912912"
+    },
+    
+    {
+        "name": "Tottenham Hotspur Stadium",
+        "category": "Premier League",
+        "city": "London",
+        "county": "London",
+        "id": 1090,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Tottenham Hotspur F.C.",
+        "coordinates": {
+            "longitude": -0.066389,
+            "latitude": 51.604444
+        },
+        "imageName": "ths",
+        "wikiLink": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_Stadium",
+        "credit": "Tottenham Hotspur Stadium by Bluejam - Self-photographed, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78153606"
+    },
+    
+    {
+        "name": "Vicarage Road",
+        "category": "Premier League",
+        "city": "Watford",
+        "county": "Hertfordshire",
+        "id": 1091,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Watford F.C.",
+        "coordinates": {
+            "longitude": -0.401486,
+            "latitude": 51.649836
+        },
+        "imageName": "VRW",
+        "wikiLink": "https://en.wikipedia.org/wiki/Vicarage_Road",
+        "credit": "Vicarage Road by Jbb503 - [1] => tothe92.co.uk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39095198"
+    },
+    
+    {
+        "name": "London Stadium",
+        "category": "Premier League",
+        "city": "London",
+        "county": "London",
+        "id": 1092,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "West Ham United F.C.",
+        "coordinates": {
+            "longitude": -0.016389,
+            "latitude": 51.538611
+        },
+        "imageName": "whu",
+        "wikiLink": "https://en.wikipedia.org/wiki/London_Stadium",
+        "credit": "London Stadium by EtienneSoumoy - Own work, Copyrighted free use, https://commons.wikimedia.org/w/index.php?curid=49681888"
+    },
+    
+    {
+        "name": "Molineux",
+        "category": "Premier League",
+        "city": "Wolverhampton",
+        "county": "West Midlands",
+        "id": 1093,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Wolverhampton Wanderers F.C.",
+        "coordinates": {
+            "longitude": -2.130278,
+            "latitude": 52.590278
+        },
+        "imageName": "WOL",
+        "wikiLink": "https://en.wikipedia.org/wiki/Molineux",
+        "credit": "By Reidmail - Taken before Wolves v Birmingham City. Previously published: https://www.geograph.org.uk/photo/5920598, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73740696"
+    },
+    
+    {
+        "name": "Valley Parade",
+        "category": "EFL League Two",
+        "city": "Bradford",
+        "county": "West Yorkshire",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "favourite": false,
+        "club": "Bradford City F.C",
+        "coordinates": {
+            "longitude": -1.760446,
+            "latitude": 53.803849
+        },
+        "imageName": "valleyparade",
+        "wikiLink": "https://en.wikipedia.org/wiki/Valley_Parade",
+        "credit": "Valley Parade By David Ingham - originally posted to Flickr as P2094590, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=3824585"
+    },
+    
+    
+    {
+        "name": "Abbey Stadium",
+        "category": "EFL League Two",
+        "city": "Cambridge",
+        "county": "Cambridgeshire",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Cambridge United F.C.",
+        "coordinates": {
+            "longitude": 0.154797,
+            "latitude": 52.212118
+        },
+        "imageName": "abbey",
+        "wikiLink": "https://en.wikipedia.org/wiki/Abbey_Stadium",
+        "credit": "Abbey Stadium By CU4ever - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8685194"
+        
+    },
+    {
+        "name": "Brunton Park",
+        "category": "EFL League Two",
+        "city": "Carlisle",
+        "county": "Cumbria",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Carlisle United F.C.",
+        "coordinates": {
+            "longitude": -2.913150,
+            "latitude": 54.896128
+        },
+        "imageName": "brunton",
+        "wikiLink": "https://en.wikipedia.org/wiki/Brunton_Park",
+        "credit": "Brunton Park by Jameboy - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3095221"
+    },
+    {
+        "name": "Jonny-Rocks Stadium",
+        "category": "EFL League Two",
+        "city": "Cheltenham",
+        "county": "Gloucestershire",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Cheltenham Town F.C.",
+        "coordinates": {
+            "longitude": -2.060185,
+            "latitude": 51.906068
+        },
+        "imageName": "chelt",
+        "wikiLink": "https://en.wikipedia.org/wiki/Whaddon_Road",
+        "credit": "Jonny-Rocks Stadium by Liamtaylor007 - Own Work, CC BY-SA 3.0, https://en.wikipedia.org/w/index.php?curid=34271067"
+    },
+    {
+        "name": "Colchester Community Stadium",
+        "category": "EFL League Two",
+        "city": "Colchester",
+        "county": "Essex",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Colchester United F.C.",
+        "coordinates": {
+            "longitude": 0.897318,
+            "latitude": 51.923152
+        },
+        "imageName": "ccs",
+        "wikiLink": "https://en.wikipedia.org/wiki/Colchester_Community_Stadium",
+        "credit": "Colchester Community Stadium by PAUL FARMER, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=13376491"
+        
+    },
+    {
+        "name": "Broadfield Stadium",
+        "category": "EFL League Two",
+        "city": "Crawley",
+        "county": "West Sussex",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Crawley Town F.C.",
+        "coordinates": {
+            "longitude": -0.194913,
+            "latitude": 51.099436
+        },
+        "imageName": "broadfield",
+        "wikiLink": "https://en.wikipedia.org/wiki/Broadfield_Stadium",
+        "credit": "Broadfield Stadium by Andrew Skudder from UK - West stand, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=13432169"
+    },
+    {
+        "name": "The Alexandra Stadium",
+        "category": "EFL League Two",
+        "city": "Crewe",
+        "county": "Cheshire",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Crewe Alexandra F.C.",
+        "coordinates": {
+            "longitude": -2.436026,
+            "latitude": 53.087496
+        },
+        "imageName": "alexandra",
+        "wikiLink": "https://en.wikipedia.org/wiki/Gresty_Road",
+        "credit": "Gresty Road by Andrew Smith, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4500142"
+    },
+    {
+        "name": "St. James Park",
+        "category": "EFL League Two",
+        "city": "Exeter",
+        "county": "Devon",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Exeter City F.C.",
+        "coordinates": {
+            "longitude": -3.521049,
+            "latitude": 50.730693
+        },
+        "imageName": "stjamese",
+        "wikiLink": "https://en.wikipedia.org/wiki/St_James_Park_(Exeter)",
+        "credit": "St James Park by en:User:Rowan_Massey - Here, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=2670726"
+    },
+    {
+        "name": "The New Lawn",
+        "category": "EFL League Two",
+        "city": "Nailsworth",
+        "county": "Gloucestershire",
+        "id": 1013,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Forest Green Rovers F.C.",
+        "coordinates": {
+            "longitude": -2.237717,
+            "latitude": 51.698816
+        },
+        "imageName": "tnl",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_New_Lawn",
+        "credit": "The New Lawn, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2354401"
+        
+    },
+    {
+        "name": "Blundell Park",
+        "category": "EFL League Two",
+        "city": "Grimsby",
+        "county": "North East Lincolnshire",
+        "id": 1014,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Grimsby Town F.C.",
+        "coordinates": {
+            "longitude": -0.045497,
+            "latitude": 53.570107
+        },
+        "imageName": "blp",
+        "wikiLink": "https://en.wikipedia.org/wiki/Blundell_Park",
+        "credit": "Blundell Park By MapsMan at the English language Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12233638"
+    },
+    {
+        "name": "The Breyer Group Stadium",
+        "category": "EFL League Two",
+        "city": "London",
+        "county": "London",
+        "id": 1015,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Leyton Orient F.C.",
+        "coordinates": {
+            "longitude": -0.012625,
+            "latitude": 51.560199
+        },
+        "imageName": "brisbane",
+        "wikiLink": "https://en.wikipedia.org/wiki/Brisbane_Road",
+        "credit": "The Breyer Group Stadium by Chris Eason from London - Brisbane Road, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=13325820"
+    },
+    {
+        "name": "Moss Rose Ground",
+        "category": "EFL League Two",
+        "city": "Macclesfield",
+        "county": "Cheshire",
+        "id": 1016,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Macclesfield Town F.C.",
+        "coordinates": {
+            "longitude": -2.126961,
+            "latitude": 53.243030
+        },
+        "imageName": "mrg",
+        "wikiLink": "https://en.wikipedia.org/wiki/Moss_Rose",
+        "credit": "Moss Rose by Ingy The Wingy - Flickr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=3838286"
+    },
+    {
+        "name": "Field Mill",
+        "category": "EFL League Two",
+        "city": "Mansfield",
+        "county": "Nottinghamshire",
+        "id": 1017,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Mansfield Town F.C.",
+        "coordinates": {
+            "longitude": -1.200615,
+            "latitude": 53.138099
+        },
+        "imageName": "fieldmill",
+        "wikiLink": "https://en.wikipedia.org/wiki/Field_Mill",
+        "credit": "Field Mill by Number 57 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=61683060"
+    },
+    {
+        "name": "Globe Arena",
+        "category": "EFL League Two",
+        "city": "Morecambe",
+        "county": "Lancashire",
+        "id": 1018,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Morecambe F.C.",
+        "coordinates": {
+            "longitude": -2.867208,
+            "latitude": 54.061130
+        },
+        "imageName": "globe",
+        "wikiLink": "https://en.wikipedia.org/wiki/Globe_Arena_(football_stadium)",
+        "credit": "Globe Arena by Ian Taylor, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12559682"
+    },
+    {
+        "name": "Rodney Parade",
+        "category": "EFL League Two",
+        "city": "Newport",
+        "county": "Gwent",
+        "id": 1019,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Newport County F.C.",
+        "coordinates": {
+            "longitude": -2.988198,
+            "latitude": 51.588324
+        },
+        "imageName": "rodney",
+        "wikiLink": "https://en.wikipedia.org/wiki/Rodney_Parade",
+        "credit": "Rodney Parade by COYB01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86414875"
+    },
+    {
+        "name": "PTS Academy Stadium",
+        "category": "EFL League Two",
+        "city": "Northampton",
+        "county": "Northamptonshire",
+        "id": 1020,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Northampton Town F.C.",
+        "coordinates": {
+            "longitude": -0.933686,
+            "latitude": 52.235051
+        },
+        "imageName": "pts",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sixfields_Stadium",
+        "credit": "PTS Academy Stadium by Dwadfish at English Wikipedia - Transferred from en.wikipedia to Commons by Kafuffle using CommonsHelper., Public Domain, https://commons.wikimedia.org/w/index.php?curid=12562386"
+    },
+    {
+        "name": "Boundary Park",
+        "category": "EFL League Two",
+        "city": "Oldham",
+        "county": "Lancashire",
+        "id": 1021,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Oldham Athletic F.C.",
+        "coordinates": {
+            "longitude": -2.128284,
+            "latitude": 53.555070
+        },
+        "imageName": "boundary",
+        "wikiLink": "https://en.wikipedia.org/wiki/Boundary_Park",
+        "credit": "By Mjm1ect Wikistadiums.org - http://www.wikistadiums.org/boundary-park/71, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10594737"
+    },
+    {
+        "name": "Home Park",
+        "category": "EFL League Two",
+        "city": "Plymouth",
+        "county": "Devon",
+        "id": 1022,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Plymouth Argyle F.C.",
+        "coordinates": {
+            "longitude": -4.151148,
+            "latitude": 50.388262
+        },
+        "imageName": "hpp",
+        "wikiLink": "https://en.wikipedia.org/wiki/Home_Park",
+        "credit": "Home Park by Roger Cornfoot, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=15194508"
+    },
+    {
+        "name": "Vale Park",
+        "category": "EFL League Two",
+        "city": "Stoke on-Trent",
+        "county": "Staffordshire",
+        "id": 1023,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Port Vale F.C.",
+        "coordinates": {
+            "longitude": -2.192564,
+            "latitude": 53.049499
+        },
+        "imageName": "vale",
+        "wikiLink": "https://en.wikipedia.org/wiki/Vale_Park",
+        "credit": "Vale Park by User:Oldelpaso - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=990591"
+    },
+    {
+        "name": "Peninsula Stadium",
+        "category": "EFL League Two",
+        "city": "Salford",
+        "county": "Greater Manchester",
+        "id": 1024,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Salford City F.C.",
+        "coordinates": {
+            "longitude": -2.276686,
+            "latitude": 53.13625
+        },
+        "imageName": "peninsula",
+        "wikiLink": "https://en.wikipedia.org/wiki/Moor_Lane",
+        "credit": "Peninsula Stadium by Jonny Keen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77489373"
+    },
+    {
+        "name": "Glanford Park",
+        "category": "EFL League Two",
+        "city": "Scunthorpe",
+        "county": "Lincolnshire",
+        "id": 1025,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Scunthorpe United F.C.",
+        "coordinates": {
+            "longitude": -0.695162,
+            "latitude": 53.5886652
+        },
+        "imageName": "glanford",
+        "wikiLink": "https://en.wikipedia.org/wiki/Glanford_Park",
+        "credit": "Glanford Park by Central Line - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=53877834"
+    },
+    {
+        "name": "Lamex Stadium",
+        "category": "EFL League Two",
+        "city": "Stevenage",
+        "county": "Hertfordshire",
+        "id": 1026,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Stevenage F.C.",
+        "coordinates": {
+            "longitude": -0.193652,
+            "latitude": 51.889845
+        },
+        "imageName": "lamex",
+        "wikiLink": "https://en.wikipedia.org/wiki/Broadhall_Way",
+        "credit": "Lamex Stadium by Whittlepedia - Taken By Bernard Randall, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7454121"
+    },
+    {
+        "name": "County Ground",
+        "category": "EFL League Two",
+        "city": "Swindon",
+        "county": "Wiltshire",
+        "id": 1027,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Swindon Town F.C.",
+        "coordinates": {
+            "longitude": -1.771068,
+            "latitude": 51.564459
+        },
+        "imageName": "countyg",
+        "wikiLink": "https://en.wikipedia.org/wiki/County_Ground",
+        "credit": "County Ground by User:Fl72 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32538644"
+    },
+    {
+        "name": "Bescot Stadium",
+        "category": "EFL League Two",
+        "city": "Walsall",
+        "county": "West Midlands",
+        "id": 1028,
+        "isFeatured": true,
+        "isFavorite": false,
+        "favourite": false,
+        "club": "Walsall F.C.",
+        "coordinates": {
+            "longitude": -1.990721,
+            "latitude": 52.565651
+        },
+        "imageName": "bescot",
+        "wikiLink": "https://en.wikipedia.org/wiki/Bescot_Stadium",
+        "credit": "Bescot Stadium By MikeMetaled at English Wikipedia - Transferred from en.wikipedia to Commons by Michiel1972 using CommonsHelper. Public Domain, https://commons.wikimedia.org/w/index.php?curid=11243186"
+    }
+]
